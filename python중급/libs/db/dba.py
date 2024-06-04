@@ -2,7 +2,7 @@
 
 import sqlite3
 
-def getConn():
-    conn = sqlite3.connect("/Users/JuneHyukLee/Desktop/python 중급 test/abc.db")
+def getConn(dbpath):
+    conn = sqlite3.connect(dbpath)
     return conn
 
