@@ -1,5 +1,4 @@
-
-<Self Study on Python>
+Self Study on Python
 
 Date: Apr.25th.2024 - Jun.4th.2024
 
